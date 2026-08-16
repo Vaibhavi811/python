@@ -1,7 +1,7 @@
 # Python Projects
 A collection of Python programs and projects built to practice and strengthen core programming concepts. This repository contains various programs demonstrating Python syntax, problem-solving, functions, object-oriented programming, file handling, modules, and practical applications.
 
-#Topics Covered
+# Topics Covered
 
 * Python fundamentals and syntax
 * Variables, data types, and operators
